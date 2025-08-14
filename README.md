@@ -1,2 +1,2 @@
 # Atharva-s-project
-Smart Bread Spoilage Detection System - An intelligent embedded solution that monitors bread freshness using IoT sensors and Python analytics, helping households and businesses reduce food waste by detecting spoilage before visible signs appear.
+Smart Bread Spoilage Detection System - An innovative embedded solution with pending research publication and patent application. Python-powered IoT sensors and analytics detect bread freshness in real-time, helping reduce food waste by identifying spoilage before visible signs appear. Publication target: October 2025.
